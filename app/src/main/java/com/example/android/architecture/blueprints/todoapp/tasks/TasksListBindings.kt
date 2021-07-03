@@ -22,7 +22,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.android.architecture.blueprints.todoapp.data.Task
 
 
-
 /**
  * [BindingAdapter]s for the [Task]s list.
  */
